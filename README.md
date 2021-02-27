@@ -38,7 +38,7 @@ NVIDIAGPU = 'cd nvidia-graphics-drivers && chmod +x * && ./*.sh'
 
 (4) Go Back
 
-'cd .. && cd.. && cd ..'
+'cd .. && cd .. && cd ..'
 
 
 NOW WE HAVE SUCCESSFULLY INSTALLED DRIVERS
