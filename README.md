@@ -21,9 +21,9 @@ Now read support.txt
 
 (2) Select your distro Arch OR Debian go to directory
 
-Arch-Linux = 'ls && cd ArCh'
+Arch-Linux = 'cd ArCh && ls'
 
-Debian-Linux = 'ls && cd DeBiAn'
+Debian-Linux = 'cd DeBiAn && ls'
 
 
 (3) Select your platform amd or intel or nvidia
