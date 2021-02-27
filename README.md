@@ -17,7 +17,7 @@ Now read support.txt
 
 (1) Go to gpu/
 
-'cd gpu'
+'cd gpu && ls'
 
 (2) Select your distro Arch OR Debian go to directory
 
