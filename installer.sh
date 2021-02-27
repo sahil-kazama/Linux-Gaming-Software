@@ -5,6 +5,7 @@ cmd=execute
 clear
 reset
 
+cd bin/
 sudo cp gdrive /bin/
 echo "  [INSTALL] ~> Installing Linux Gaming Toolkit....  
 "
