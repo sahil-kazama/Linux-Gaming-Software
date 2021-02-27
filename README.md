@@ -49,9 +49,11 @@ NOW WE HAVE SUCCESSFULLY INSTALLED DRIVERS
 
 ./your_distro_name.game
 
-Arch-Linux= ./arch.game
+Arch-Linux= 
+./arch.game
 
-Debian-Linux=./debian.game
+Debian-Linux= 
+./debian.game
 
 
 WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT ROOT USERS
