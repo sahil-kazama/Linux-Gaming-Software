@@ -1,3 +1,13 @@
+# Support Of Toolkit
+[+] ~> Support DirectX 9/10/11
+[+] ~> Support OpenVR Virtual/3D
+[+] ~> Support Visual-C++ 32/64bit 
+[+] ~> Support dotNET Framework 4.0/4.8
+[+] ~> Support Vulkan-based D3D9/D3D10/D3D11
+[+] ~> Support FAudio, an XAudio reimplementation
+[+] ~> Support Visual Basic 6.0
+
+
 # Linux-Gaming-Toolkit
 
 To install toolkit run the command
