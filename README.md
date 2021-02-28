@@ -13,37 +13,7 @@ Now read help.txt
 Now read support.txt
 
 
-# Frist install GpU drivers 
-
-(1) Go to gpu/
-
-cd gpu && ls
-
-(2) Select your distro Arch OR Debian go to directory
-
-Arch-Linux = cd ArCh && ls
-
-Debian-Linux = cd DeBiAn && ls
-
-
-(3) Select your platform amd or intel or nvidia
-
-
-AMDGPU = cd amd-graphics-drivers && chmod +x * && ./*.sh
-
-INTELGPU = cd intel-graphics-drivers && chmod +x * && ./*.sh
-
-NVIDIAGPU = cd nvidia-graphics-drivers && chmod +x * && ./*.sh
-
-
-(4) Go Back
-
-cd .. && cd .. && cd .. && chmod +x *
-
-
-NOW WE HAVE SUCCESSFULLY INSTALLED DRIVERS
-
-# Second install gaming-toolkit
+# Install gaming-toolkit
 
 (1) install gaming toolkit to run the scripts
 
@@ -64,8 +34,8 @@ WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT R
 
 RUN A WINDOWS GAMES
 
-wine application.exe
+'wine application.exe'
 
 RUN A STEAM STORE
 
-go to application menu search steam and click to open
+'go to application menu search steam and click to open'
