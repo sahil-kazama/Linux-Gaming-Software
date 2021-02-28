@@ -37,7 +37,6 @@ Now read support.txt
 
 (1) install gaming toolkit to run the scripts
 
-My contact +91 8766317909
 ./your_distro_name.game
 
 Arch-Linux= 
@@ -60,3 +59,6 @@ RUN A WINDOWS GAMES
 RUN A STEAM STORE
 
 'go to application menu search steam and click to open'
+
+# My contact +91 8766317909
+
