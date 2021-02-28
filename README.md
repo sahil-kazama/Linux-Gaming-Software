@@ -1,17 +1,17 @@
-# Support Of Toolkit
-[+] ~> Support DirectX 9/10/11
+# Support Of Toolkit = [SAHIL KAZAMA] ~> INDIAN DEVELOPER
+Support DirectX 9/10/11
 
-[+] ~> Support OpenVR Virtual/3D
+Support OpenVR Virtual/3D
 
-[+] ~> Support Visual-C++ 32/64bit 
+Support Visual-C++ 32/64bit 
 
-[+] ~> Support dotNET Framework 4.0/4.8
+Support dotNET Framework 4.0/4.8
 
-[+] ~> Support Vulkan-based D3D9/D3D10/D3D11
+Support Vulkan-based D3D9/D3D10/D3D11
 
-[+] ~> Support FAudio, an XAudio reimplementation
+Support FAudio, an XAudio reimplementation
 
-[+] ~> Support Visual Basic 6.0
+Support Visual Basic 6.0
 
 
 # Linux-Gaming-Toolkit
@@ -33,6 +33,7 @@ Now read support.txt
 
 (1) install gaming toolkit to run the scripts
 
+My contact +91 8766317909
 ./your_distro_name.game
 
 Arch-Linux= 
