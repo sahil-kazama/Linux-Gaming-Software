@@ -17,6 +17,8 @@ Support FAudio, an XAudio reimplementation
 
 Support Visual Basic 6.0
 
+Support Gaming-Emulator
+
 
 # [SAHIL KAZAMA] <~> INDIAN DEVELOPER
 
@@ -55,7 +57,7 @@ WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT R
 
 <now you can open steam and enjoy it>
 
-# I AM NOT GONE TO END YOU CAN RUN WINDOWS GAMES AND STEAM AND PLAY IT
+# I AM NOT GONE TO END YOU CAN RUN WINDOWS GAMES AND STEAM GAMES AND EMULATOR GAMES
 
 RUN A WINDOWS GAMES
 
@@ -64,6 +66,11 @@ RUN A WINDOWS GAMES
 RUN A STEAM STORE
 
 'go to application menu search steam and click to open'
+
+RUN A GAMES USING EMULATOR
+
+'cut the Emulator folder and paste into Desktop and now go to Emulator folder and Open a terminal select your emulator directory and run the emulator'
+'./Your_emulator_name' = Use './' to run emulator
 
 # My contact +91 8766317909
 
