@@ -9,5 +9,5 @@ sudo cp gdrive /bin/
 echo "  [INSTALL] ~> Installing Linux Gaming Toolkit....  
 "
 sleep 5s
-gdrive https://drive.google.com/file/d/1wnAM_3aA9xl3HCoLa_99TCqjyFTgCJYJ/view?usp=sharing
-7z x *.img -o*
+gdrive https://drive.google.com/file/d/1TXbNY0G8iHMDvLoOhnxCuR4s5rvpmUNG/view?usp=sharing
+unsquashfs -d Linux-Pro-Gaming-Toolkit Linux-Pro-Gaming-Toolkit.img
