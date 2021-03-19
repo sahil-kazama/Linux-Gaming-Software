@@ -21,6 +21,11 @@ Support Visual Basic 6.0
 # [SAHIL KAZAMA] <~> INDIAN DEVELOPER
 
 To install toolkit run the command
+Requirments
+
+debianlinux=  sudo apt-get install squashfs-tools
+
+archlinux=  sudo pacman -S squashfs-tools
 
 git clone https://github.com/sahil-kazama/Linux-Gaming-Toolkit.git && cd Linux-Gaming-Toolkit && chmod +x * && ./installer.sh
 
