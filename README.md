@@ -72,5 +72,5 @@ RUN A GAMES USING EMULATOR
 'cut the Emulator folder and paste into Desktop and now go to Emulator folder and Open a terminal select your emulator directory and run the emulator'
 './Your_emulator_name' = Use './' to run emulator
 
-# My contact +91 8766317909
+# My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
 
