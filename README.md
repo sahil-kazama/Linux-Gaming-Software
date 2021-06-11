@@ -6,7 +6,7 @@ Welcome To Gaming On Linux
 Support Infinity
 
 
-# [SAHIL KAZAMA] <~> INDIAN DEVELOPER
+# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
 
 To install toolkit run the command
 Requirments
