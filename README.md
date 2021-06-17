@@ -15,7 +15,7 @@ debianlinux=  sudo apt-get install squashfs-tools
 
 archlinux=  sudo pacman -S squashfs-tools
 
-git clone https://github.com/sahil-kazama/Linux-Gaming-Toolkit.git && cd Linux-Gaming-Toolkit && chmod +x * && ./installer.sh
+git clone https://github.com/sahil-kazama/Linux-Gaming-Software.git && cd Linux-Gaming-Software && chmod +x * && ./installer.sh
 
  cd Linux-Pro-Gaming-Toolkit/ && chmod +x * && ls -a
 
