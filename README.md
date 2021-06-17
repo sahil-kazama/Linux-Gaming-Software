@@ -1,8 +1,8 @@
-# Linux-Gaming-Toolkit
+# Linux-Gaming-Software
 
 Welcome To Gaming On Linux
 
-# Support Of Toolkit 
+# Support Of Software
 Support Infinity
 
 
@@ -26,9 +26,9 @@ Now read help.txt
 Now read support.txt
 
 
-# Install gaming-toolkit
+# Install gaming-software
 
-(1) install gaming toolkit to run the scripts
+(1) install gaming software to run the scripts
 
 ./your_distro_name.game
 
