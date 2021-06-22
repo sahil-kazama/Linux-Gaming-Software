@@ -11,9 +11,9 @@ Support Infinity
 To install toolkit run the command
 Requirments
 
-debianlinux=  sudo apt-get install squashfs-tools
+debianlinux = sudo apt-get install squashfs-tools
 
-archlinux=  sudo pacman -S squashfs-tools
+archlinux = sudo pacman -S squashfs-tools
 
 git clone https://github.com/sahil-kazama/Linux-Gaming-Software.git && cd Linux-Gaming-Software && chmod +x * && ./installer.sh
 
