@@ -3,9 +3,9 @@
 cmd=cmd
 cmd=execute
 clear
-reset
 
 sudo cp gdrive /bin/
+reset
 echo "  [INSTALL] ~> Installing Linux Gaming Toolkit....  
 "
 sleep 5s
